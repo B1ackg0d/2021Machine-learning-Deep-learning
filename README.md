@@ -5,3 +5,7 @@ KdTree&amp;BallTree for Mnist（，PCA in Mnist，Semi-Supervised CNN for FOOD11
 
 ![image](https://user-images.githubusercontent.com/50610732/124782366-c2aa2e80-df76-11eb-8372-42873df4388f.png)
 
+![image](https://user-images.githubusercontent.com/50610732/124783400-9c38c300-df77-11eb-9e35-f5af58521902.png)
+
+
+
